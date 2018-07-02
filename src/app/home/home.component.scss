@@ -1,0 +1,26 @@
+.container {
+    margin-top: 5%;
+  .select-list {
+    margin: 0 3%;
+  }
+  button {
+    height: 42px;
+  }
+  th {
+    font-size: 14px;
+  }
+  td {
+    font-size: 12px;
+  }
+
+  .photo {
+    width: 100px;
+    img {
+      width: 100%;
+    }
+  }
+
+  .phone-box {
+    white-space: nowrap;
+  }
+}
